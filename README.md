@@ -3,4 +3,6 @@
 int main()
 {
 printf("check the commit");
+
+return 0;
 }
